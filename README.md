@@ -44,7 +44,6 @@ QtAV can meet your most demands
 #### Requirements
     
     pacman -S mingw-w64-x86_64-qt6
-    pacman -S mingw-w64-x86_64-ffmpeg4.4
     
 #### Build
 
